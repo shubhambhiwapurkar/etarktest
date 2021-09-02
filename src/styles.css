@@ -1,0 +1,16 @@
+
+
+body {
+
+  /* font-family: "Poppins", sans-serif; */
+    /* min-height: 100vh; */
+    /* background: linear-gradient(to right top, #0c0c0c, #881c67); */
+    /* background:#212529; */
+
+}
+footer{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
